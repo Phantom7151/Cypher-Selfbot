@@ -34,7 +34,7 @@ Here are some links to help you get started :
 
 ## How do I purchase this?
 
-You can DM me ([Phantom#7151](https://discord.com/users/731754141331882017)) via Discord to purchase this selfbot
+You can DM me ([Phantom#7151](https://dsc.gg/phantom)) via Discord to purchase this selfbot
 
 ## I can't DM you for some reason
 
@@ -54,7 +54,7 @@ Of course! Almost every selfbot program are compiled together to mask the malaci
 
 # Contributions
 
-Feel free to support my projects via [phantomcodes.ga/support](https://phantomcodes.ga/support) or via [Discord](https://discord.com/users/731754141331882017). Thanks!
+Feel free to support my projects via [phantomcodes.ga/support](https://phantomcodes.ga/support) or via [Discord](https://dsc.gg/phantom). Thanks!
 
 # Legal Disclaimer
 
