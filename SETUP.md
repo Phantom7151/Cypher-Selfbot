@@ -2,7 +2,7 @@
 
 ---
 
-If you haven't already, buy [Cypher Selfbot](https://github.com/SealedSaucer/Cypher-Selfbot) from [Phantom#7151](https://discord.com/users/731754141331882017). Join our [Discord Server](https://dsc.gg/phantom) if you are facing any issues while DM-ing
+If you haven't already, buy [Cypher Selfbot](https://github.com/SealedSaucer/Cypher-Selfbot) from [Phantom#7151](https://dsc.gg/phantom). Join our [Discord Server](https://dsc.gg/phantom) if you are facing any issues while DM-ing
 
 ---
 
@@ -57,4 +57,4 @@ You can go through the [COMMANDS.md](COMMANDS.md) to check the commands.
 
 ---
 
-#### If it didn't show up like that/If it is showing any errors, please don't hesitate to [contact me](https://discord.com/users/731754141331882017) through Discord or via my [Discord Server](https://dsc.gg/phantom).
+#### If it didn't show up like that/If it is showing any errors, please don't hesitate to [contact me](https://dsc.gg/phantom) through Discord or via my [Discord Server](https://dsc.gg/phantom).
