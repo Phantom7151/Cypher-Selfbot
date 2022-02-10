@@ -54,7 +54,7 @@ Of course! Almost every selfbot program are compiled together to mask the malaci
 
 # Contributions
 
-Feel free to support my projects via [phantomcodes.ga/support](https://phantomcodes.ga/support) or via [Discord](https://dsc.gg/phantom). Thanks!
+Feel free to support my projects via [phantom.codes/support](https://phantom.codes/support) or via [Discord](https://dsc.gg/phantom). Thanks!
 
 # Legal Disclaimer
 
